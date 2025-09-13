@@ -4,7 +4,7 @@ A fully responsive, interactive admin dashboard built with React and styled with
 
 
 ► Screenshot
-![alt text](Admin.png)
+![alt text]public/images/Admin.png
 
 ✨ Features
 Fully Responsive Design: Adapts seamlessly to desktop, tablet, and mobile devices.
